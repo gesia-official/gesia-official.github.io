@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://gesia-official.github.io/</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>https://gesia-official.github.io/</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en.html"/></url>
+<url><loc>https://gesia-official.github.io/about.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/about.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-about.html"/></url>
+<url><loc>https://gesia-official.github.io/technology.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/technology.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-technology.html"/></url>
+<url><loc>https://gesia-official.github.io/business.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/business.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-business.html"/></url>
+<url><loc>https://gesia-official.github.io/bot-application.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/bot-application.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-bot-application.html"/></url>
+<url><loc>https://gesia-official.github.io/publication.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/publication.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-publication.html"/></url>
+<url><loc>https://gesia-official.github.io/contact.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/contact.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-contact.html"/></url>
+<url><loc>https://gesia-official.github.io/privacy.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/privacy.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-privacy.html"/></url>
+<url><loc>https://gesia-official.github.io/en.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en.html"/></url>
+<url><loc>https://gesia-official.github.io/en-about.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/about.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-about.html"/></url>
+<url><loc>https://gesia-official.github.io/en-technology.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/technology.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-technology.html"/></url>
+<url><loc>https://gesia-official.github.io/en-business.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/business.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-business.html"/></url>
+<url><loc>https://gesia-official.github.io/en-bot-application.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/bot-application.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-bot-application.html"/></url>
+<url><loc>https://gesia-official.github.io/en-publication.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/publication.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-publication.html"/></url>
+<url><loc>https://gesia-official.github.io/en-contact.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/contact.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-contact.html"/></url>
+<url><loc>https://gesia-official.github.io/en-privacy.html</loc><xhtml:link rel="alternate" hreflang="ko" href="https://gesia-official.github.io/privacy.html"/><xhtml:link rel="alternate" hreflang="en" href="https://gesia-official.github.io/en-privacy.html"/></url>
 </urlset>

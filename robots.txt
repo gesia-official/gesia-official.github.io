@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-
+Disallow: /_site-template.html
+Disallow: /build-pages.mjs
 Sitemap: https://gesia-official.github.io/sitemap.xml
